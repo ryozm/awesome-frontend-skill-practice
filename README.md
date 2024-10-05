@@ -2,7 +2,7 @@
 
 A curated collection of awesome front-end development skill practice and challenges.
 
-_If you want to contribute to this list (please do), send me a pull request
+_If you want to contribute to this list (please do), send me a pull request_
 
 ## HTML
 
